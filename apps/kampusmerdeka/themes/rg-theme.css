@@ -1,9 +1,0 @@
-/* @theme rg-theme */
-
-@import 'default';
-
-section {
-  background-image: url("https://i.postimg.cc/65rxjXt6/bg-hf.png");
-  font-family: Arial, Helvetica, sans-serif;
-  display: flex;
-} 
