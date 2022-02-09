@@ -1,0 +1,23 @@
+{
+  "name": "test-github-action",
+  "version": "1.0.0",
+  "description": "## testing github action nih",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afistapratama12/test-github-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afistapratama12/test-github-action/issues"
+  },
+  "homepage": "https://github.com/afistapratama12/test-github-action#readme",
+  "dependencies": {
+    "@marp-team/marp-cli": "^1.5.2"
+  }
+}
